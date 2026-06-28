@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 style="text-align: center">hi,vesperlemont doesn't have any public repositories yet.</h1>
 <!--
 **TiiiHa281/TiiiHa281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
